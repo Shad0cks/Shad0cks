@@ -1,6 +1,12 @@
-### Hi there 👋
+# ✨ Work board ✨
+
+## 42 Student progression 👨🏻‍🎓
+[![pdeshaye's 42 stats](https://badge42.vercel.app/api/v2/clabrwzcg00350fmdm536ucv5/stats?cursusId=21&coalitionId=305)](https://github.com/JaeSeoKim/badge42)
+
+
+
+## Hacking skills 🧙🏼‍♂️
 <img src="https://tryhackme-badges.s3.amazonaws.com/Shadocks.png" alt="TryHackMe">
-[![pdeshaye's 42 stats](https://badge42.vercel.app/api/v2/clabrwzcg00350fmdm536ucv5/stats?cursusId=21&coalitionId=16)](https://github.com/JaeSeoKim/badge42)
 
 
 <!--
