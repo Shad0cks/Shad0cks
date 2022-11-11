@@ -1,6 +1,6 @@
 # ✨ Work board ✨
 
-## 42 Student progression 👨🏻‍🎓
+## 42 Progress 👨🏻‍🎓
 [![pdeshaye's 42 stats](https://badge42.vercel.app/api/v2/clabrwzcg00350fmdm536ucv5/stats?cursusId=21&coalitionId=305)](https://github.com/JaeSeoKim/badge42)
 
 
