@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm Pierre-Louis, 42 student and c/c++ developer 👨‍💻 trying to become the World's greatest hacker 🧙🏼‍♂️<br><br>💼 I’m currently looking for an internship <br>🤝 I’m looking for help with reverse engineering<br>🗿 I’m currently learning assembly<br>
 
+### 42 progress 
+[![pdeshaye's 42 stats](https://badge42.vercel.app/api/v2/clabrwzcg00350fmdm536ucv5/stats?cursusId=21&coalitionId=305)](https://github.com/JaeSeoKim/badge42)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Shadocks#6821) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pierre-L0uis) 
@@ -14,9 +16,6 @@ I'm Pierre-Louis, 42 student and c/c++ developer 👨‍💻 trying to become th
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shad0cks&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 4️⃣2️⃣ progress 
-[![pdeshaye's 42 stats](https://badge42.vercel.app/api/v2/clabrwzcg00350fmdm536ucv5/stats?cursusId=21&coalitionId=305)](https://github.com/JaeSeoKim/badge42)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shad0cks) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pierrelouisdeshayes) 
