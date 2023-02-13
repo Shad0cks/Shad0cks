@@ -1,7 +1,9 @@
-# 💫 About Me:
-I'm Pierre-Louis, 42 student and c/c++ developer 👨‍💻 trying to become the World's greatest hacker 🧙🏼‍♂️<br><br>💼 I’m currently looking for an internship <br>🤝 I’m looking for help with reverse engineering<br>🗿 I’m currently learning assembly<br>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+ I'm Pierre-Louis, 42 student and c/c++ developer 👨‍💻 trying to become the World's greatest hacker 🧙🏼‍♂️<br><br>💼 I’m currently looking for an internship <br>🤝 I’m looking for help with reverse engineering<br>🗿 I’m currently learning assembly<br>
 
-### 42 progress 
 [![pdeshaye's 42 stats](https://badge42.vercel.app/api/v2/clabrwzcg00350fmdm536ucv5/stats?cursusId=21&coalitionId=305)](https://github.com/JaeSeoKim/badge42)
 
 ## 🌐 Socials:
